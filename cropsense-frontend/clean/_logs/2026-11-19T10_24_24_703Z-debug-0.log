@@ -1,0 +1,18 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.2.0
+2 info using node@v20.18.0
+3 silly config load:file:C:\Users\Admin\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Admin\.npmrc
+5 silly config load:file:C:\Users\Admin\AppData\Roaming\npm\etc\npmrc
+6 verbose title npm rebuild pnpm
+7 verbose argv "rebuild" "--ignore-scripts" "--global" "pnpm"
+8 verbose logfile logs-max:10 dir:C:\Users\Admin\CropSense-project\Crop Sense app fronted\clean\_logs\2026-11-19T10_24_24_703Z-
+9 verbose logfile C:\Users\Admin\CropSense-project\Crop Sense app fronted\clean\_logs\2026-11-19T10_24_24_703Z-debug-0.log
+10 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+11 silly logfile done cleaning log files
+12 verbose cwd C:\Users\Admin\AppData\Roaming\npm\node_modules\pnpm
+13 verbose os Windows_NT 10.0.26200
+14 verbose node v20.18.0
+15 verbose npm  v11.2.0
+16 verbose exit 0
+17 info ok
